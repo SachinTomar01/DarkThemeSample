@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="select_theme">Select Theme - Now Day</string>
+    <string name="select_theme_auto">Select Theme - Now Auto</string>
+</resources>
